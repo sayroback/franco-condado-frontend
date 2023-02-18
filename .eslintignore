@@ -1,0 +1,5 @@
+dist
+build
+*.yaml
+pnpm-lock.yaml
+vite.config.js
